@@ -26,7 +26,7 @@ Squamous cell carcinoma
 Vascular lesion
 
 
-## Project Pipeline - 
+## Project Pipeline  
 1) Data Reading/Data Understanding
 2) Dataset Creation
 3) Dataset visualisation
