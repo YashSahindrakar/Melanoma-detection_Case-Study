@@ -39,7 +39,9 @@ Vascular lesion
 
 
 ## Conclusions
-The problem of overfitting and underfitting was solved and the model was well trained for predictions. Data augmentation, outliers, and class equalization were found to be useful in improving model performance in this case.
+- The issue of overfitting was tackled successfully by doing Data Augmentation, adding a drop out layer.
+
+- The model performed well on both training and validation datasets.
 
 
 ## Technologies Used
@@ -49,6 +51,8 @@ Python 3
 Pandas, Numpy, Matplotlib,
 Augmentor
 
+## Acknowledgements 
+This project was inspired by UpGrad.
 
 ## Contact
 Created by [@YashSahindrakar] - feel free to contact me!
