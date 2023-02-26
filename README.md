@@ -44,6 +44,10 @@ Vascular lesion
 - The model performed well on both training and validation datasets.
 
 
+## Acknowledgements 
+This project was inspired by UpGrad.
+
+
 ## Technologies Used
 Keras
 TensorFlow
@@ -51,8 +55,7 @@ Python 3
 Pandas, Numpy, Matplotlib,
 Augmentor
 
-## Acknowledgements 
-This project was inspired by UpGrad.
+
 
 ## Contact
 Created by [@YashSahindrakar] - feel free to contact me!
