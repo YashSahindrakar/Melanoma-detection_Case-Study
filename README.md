@@ -22,6 +22,8 @@ Pigmented benign keratosis
 Seborrheic keratosis
 Squamous cell carcinoma
 Vascular lesion
+
+
 Project Pipeline
 Data Reading/Data Understanding
 Dataset Creation
@@ -32,13 +34,19 @@ Model Building & training on the augmented data
 Class distribution
 Handling class imbalances
 Model Building & training on the rectified class imbalance data
+
+
 Conclusions
 The problem of overfitting and underfitting was solved and the model was well trained for predictions. Data augmentation, outliers, and class equalization were found to be useful in improving model performance in this case.
+
+
 Technologies Used
 Keras
 TensorFlow
 Python 3
 Pandas, Numpy, Matplotlib,
 Augmentor
+
+
 Contact
 Created by [@YashSahindrakar] - feel free to contact me!
